@@ -1,0 +1,2 @@
+Open Trivia Database (API to fetch the question): https://opentdb.com/
+Escape and unescape the text : https://www.freeformatter.com/html-escape.html
